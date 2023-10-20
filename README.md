@@ -1,5 +1,4 @@
 # Vulnr
-Python class to detect running vulnerable drivers and programs for privilege escalation using the loldrivers & lolbas apis.
 
 ```py
 import win32com.client
