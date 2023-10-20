@@ -34,4 +34,5 @@ class vulnr_t:
                             running_vulnerable_programs.append(vulnerable_program)
                 except:
                     pass
-        return running_vulnerable_programs```
+        return running_vulnerable_programs
+```
