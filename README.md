@@ -1,5 +1,5 @@
 # Vulnr
-Python script to detect running vulnerable drivers for privilege escalation.
+Python script to detect running vulnerable drivers for privilege escalation using the loldrivers api.
 
 ```py
 import win32com.client
